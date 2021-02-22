@@ -5,7 +5,7 @@ Tensorflow 2.0 implementation of the Pointer-Generator network from the "Get to 
 **!!! WORK IN PROGRESS !!!**
 
 Implemented:
-*seq2seq model with attention and coverage
+* seq2seq model with attention and coverage
 
 TO-DO:
 * Pointer
