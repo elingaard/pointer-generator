@@ -9,5 +9,5 @@ Implemented:
 
 TO-DO:
 * Pointer
-* `eval.py` function - beam search and greedy search already in `utils.py`
+* ~~`eval.py` function - beam search and greedy search already in `utils.py`
 * Docstrings
